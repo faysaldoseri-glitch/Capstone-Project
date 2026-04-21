@@ -1,16 +1,10 @@
 streamlit==1.37.1
 python-dateutil==2.9.0.post0
 requests==2.32.3
-
 pillow==10.4.0
-
 pandas==2.2.2
 numpy==1.26.4
 joblib==1.4.2
 scikit-learn==1.4.2
-
 huggingface_hub==0.23.4
 openai==1.35.13
-
-fastapi==0.110.0
-uvicorn==0.29.0
